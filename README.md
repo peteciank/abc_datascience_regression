@@ -25,7 +25,7 @@ This repository provides a practical introduction to the following regression al
 
 Each algorithm is accompanied by an interactive Jupyter Notebook. These notebooks contain:
 
-* **Clear Code Explanations:** Understand the logic, not just the syntax.
+* **Clear Code Explanations:** Understand the logic, not just the syntax. Included in the Notebook n1, the rest are all the same
 * **Step-by-Step Examples:**  Build intuition with practical demonstrations.
 * **Exercises:** Test your comprehension and solidify your knowledge.
 
