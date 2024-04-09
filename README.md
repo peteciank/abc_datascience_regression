@@ -15,18 +15,23 @@ Regression forms the backbone of many real-world applications:
 This repository provides a practical introduction to the following regression algorithms:
 
 * **Decision Tree Regression:** A flexible model that constructs a tree-like structure of decision rules for predictions.
+* 
 ![image](https://github.com/peteciank/abc_datascience_regression/assets/106826936/8ce3d9c4-54db-4df6-b984-02c4be9e8efc)
   
 * **Multiple Linear Regression:**  A classic approach modeling the linear relationship between multiple independent variables (features) and a dependent variable.
+* 
 ![image](https://github.com/peteciank/abc_datascience_regression/assets/106826936/d4e90d95-3b44-4c23-a1dd-2fb3fb471cb8)
 
 * **Polynomial Regression:**  Captures non-linear relationships between variables by fitting a curved line.
+* 
 ![image](https://github.com/peteciank/abc_datascience_regression/assets/106826936/52d16753-6d84-42eb-a1b6-69c499bcb98f)
 
 * **Random Forest Regression:** An ensemble method combining multiple decision trees for improved accuracy and robustness.
+* 
 ![image](https://github.com/peteciank/abc_datascience_regression/assets/106826936/44123651-db12-454c-8ab7-799fa085bc0c)
 
 * **Support Vector Regression (SVR):**  Finds the best-fit hyperplane that lies closest to as many data points as possible.
+* 
 ![image](https://github.com/peteciank/abc_datascience_regression/assets/106826936/db254735-a272-4a6b-b29f-f69af6c370dc)
 
 
@@ -34,7 +39,7 @@ This repository provides a practical introduction to the following regression al
 
 Each algorithm is accompanied by an interactive Jupyter Notebook. These notebooks contain:
 
-* **Clear Code Explanations:** Understand the logic, not just the syntax. Included in the Notebook n1, the rest are all the same
+* **Clear Code Explanations:** Understand the logic, not just the syntax. **Included in the Notebook n1**, the rest are all the same
 * **Step-by-Step Examples:**  Build intuition with practical demonstrations.
 * **Exercises:** Test your comprehension and solidify your knowledge.
 
