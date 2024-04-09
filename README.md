@@ -53,7 +53,10 @@ Each algorithm is accompanied by an interactive Jupyter Notebook. These notebook
 
 1. Clone this repository.
 2. Install the required libraries (check the notebooks for specifics). 
-3. Dive into the notebooks and experiment
+3. Dive into the notebooks and experiment. At the end of the notebook, you will find the performance metric. Closer to 1, better performance.
+
+![image](https://github.com/peteciank/abc_datascience_regression/assets/106826936/577cec19-2b7e-4981-82d0-1278851cc90d)
+
 
 **Engage and Contribute**
 
